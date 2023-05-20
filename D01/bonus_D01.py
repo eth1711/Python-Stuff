@@ -1,5 +1,5 @@
-name = "Sam"
-dog = "Scooby"
-shoes = 10
+name = "Antoine"
+dog = "Scooter"
+balls = 80
 
-print(f"{name}'s dog {dog} ate {shoes} pairs of shoes")
+print(f"{name}'s dog {dog} ate {balls} balls")
